@@ -61,7 +61,7 @@ public class SoundManager : MonoBehaviour
 
     void ButtonClickHandler()
     {
-        PlaySoundEffect("ButtonClick");
+        //PlaySoundEffect("ButtonClick");
     }
 
     public void PlaySoundEffect(string name, float timeDelay = 0, float volume = 1, float pitch = 1)
