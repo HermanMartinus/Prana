@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: pranayama
-  productName: breath
+  productName: Prana
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.79215693, g: 0.90196085, b: 0.8941177, a: 1}
@@ -245,8 +245,8 @@ PlayerSettings:
   AndroidTargetArchitectures: 5
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: 
-  AndroidKeyaliasName: 
+  AndroidKeystoreName: keystore.keystore
+  AndroidKeyaliasName: keystore
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 1
   AndroidIsGame: 1
@@ -263,7 +263,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: c6d3e2211869a481bbc913eaba3aa80c, type: 3}
+      m_Icon: {fileID: 2800000, guid: 42ec7ae1dcd4e41a9bbadfea28e24ded, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
